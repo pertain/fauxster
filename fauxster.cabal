@@ -12,6 +12,7 @@ bug-reports:    https://github.com/pertain/fauxster/issues
 author:         William Ersing
 maintainer:     example@example.com
 copyright:      2021 Author name here
+license:        BSD3
 license-file:   LICENSE
 build-type:     Simple
 extra-source-files:
