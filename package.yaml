@@ -1,7 +1,7 @@
 name:                fauxster
 version:             0.1.0.0
 github:              "pertain/fauxster"
-license:             BSD3
+license:             
 author:              "William Ersing"
 maintainer:          "example@example.com"
 copyright:           "2021 Author name here"
